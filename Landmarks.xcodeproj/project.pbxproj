@@ -128,6 +128,16 @@
 			path = Hikes;
 			sourceTree = "<group>";
 		};
+		8C2DD0812B182E1D00AF49D4 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				8C284BA62B158AFA006C569B /* CategoryHome.swift */,
+				8C284BA82B158DA5006C569B /* CategoryRow.swift */,
+				8C284BAA2B158FE2006C569B /* CategoryItem.swift */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
 		8C600E9A2AFDAA4D00025C09 = {
 			isa = PBXGroup;
 			children = (
@@ -223,9 +233,7 @@
 				8C600EA82AFDAA4D00025C09 /* ContentView.swift */,
 				8C7B4BD02B0C0B4100B46E3A /* Landmarks */,
 				8CFB4CC72B14476E0098E32C /* Badges */,
-				8C284BA62B158AFA006C569B /* CategoryHome.swift */,
-				8C284BA82B158DA5006C569B /* CategoryRow.swift */,
-				8C284BAA2B158FE2006C569B /* CategoryItem.swift */,
+				8C2DD0812B182E1D00AF49D4 /* Category */,
 			);
 			path = Views;
 			sourceTree = "<group>";
